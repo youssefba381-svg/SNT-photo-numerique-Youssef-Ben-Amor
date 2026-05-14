@@ -1,1 +1,0 @@
-# SNT-photo-numerique-Youssef-Ben-Amor
