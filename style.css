@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head><meta charset="UTF-8"><link rel="stylesheet" href="style.css"><title>SNT - EXIF</title></head>
+<body>
+    <nav><a href="index.html">Débuts</a> <a href="capteur.html">Le Capteur</a> <a href="traitement.html">Retouche</a> <a href="exif.html">Données</a></nav>
+    <h1>Les informations cachées : EXIF</h1>
+    <img src="donnees_photo.jpg" alt="Exemple de données techniques">
+    <p>Chaque fichier photo contient des métadonnées appelées EXIF. C'est comme une carte d'identité de l'image.</p>
+    <table>
+        <tr><th>Type de donnée</th><th>Exemple concret</th></tr>
+        <tr><td>Matériel</td><td>Samsung Galaxy S22 ou Canon EOS</td></tr>
+        <tr><td>Réglages</td><td>Vitesse 1/500s, ISO 400</td></tr>
+        <tr><td>GPS</td><td>Latitude et Longitude du lieu</td></tr>
+    </table>
+    <p>Ces données sont très utiles mais il faut faire attention à sa vie privée quand on les partage !</p>
+    <div class="info-source">Source : Pixees Photo SNT</div>
+</body>
+</html>
